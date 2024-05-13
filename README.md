@@ -20,7 +20,7 @@ python -m pytest -v --pyargs nupack
 
 ### v4.0.1.8
 
-使用 [MSYS2][MSYS2] CLANG64 环境进行编译.
+使用 [MSYS2][MSYS2] `CLANG64` 环境进行编译.
 
 ```bash
 $ clang++ --version

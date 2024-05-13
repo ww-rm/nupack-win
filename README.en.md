@@ -20,7 +20,7 @@ There should be no warnings or errors, and it should pass `45` test cases smooth
 
 ### v4.0.1.8
 
-Compiled using the [MSYS2][MSYS2] CLANG64 environment.
+Compiled using the [MSYS2][MSYS2] `CLANG64` environment.
 
 ```bash
 $ clang++ --version
