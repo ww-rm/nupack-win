@@ -30,6 +30,8 @@ Thread model: posix
 InstalledDir: D:/Program Files/msys64/clang64/bin
 ```
 
+The triplet used by vcpkg is `x64-mingw-dynamic`.
+
 Supported Python versions:
 
 - `v3.9.x`

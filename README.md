@@ -30,6 +30,8 @@ Thread model: posix
 InstalledDir: D:/Program Files/msys64/clang64/bin
 ```
 
+vcpkg 使用的 triplet 为 `x64-mingw-dynamic`.
+
 支持的 Python 版本:
 
 - `v3.9.x`
